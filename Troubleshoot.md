@@ -9,8 +9,8 @@ Change default port 80 to 8080
   ServerName localhost:8080
 ```
 ## GD Error
-In PHP, GD is the library of image functions
-Uncaught Error: Call to undefined function imagecreatetruecolor()
-C:\xampp\php\php.ini
-Search "gd"
-remove ";" before ";extension=gd"
+In PHP, GD is the library of image functions<br>
+Uncaught Error: Call to undefined function imagecreatetruecolor()<br>
+C:\xampp\php\php.ini<br>
+Search "gd"<br>
+remove ";" before ";extension=gd"<br>
