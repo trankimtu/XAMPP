@@ -14,3 +14,4 @@ Uncaught Error: Call to undefined function imagecreatetruecolor()<br>
 C:\xampp\php\php.ini<br>
 Search "gd"<br>
 remove ";" before ";extension=gd"<br>
+In XAMPP Stop and start apache
